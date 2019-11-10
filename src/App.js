@@ -6,7 +6,6 @@ import ConnectionBanner from "@rimble/connection-banner";
 import NetworkIndicator from "@rimble/network-indicator";
 
 import Header from "./components/Header";
-import Footer from "./components/Footer";
 import WalletBlock from "./components/WalletBlock";
 import PrimaryCard from "./components/PrimaryCard";
 import Web3Debugger from "./components/Web3Debugger";
