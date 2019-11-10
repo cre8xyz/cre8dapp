@@ -1,5 +1,5 @@
 {
-  "name": "rimble-app-demo",
+  "name": "cre8dapp",
   "version": "0.8.0",
   "dependencies": {
     "@rimble/connection-banner": "^1.1.4",
